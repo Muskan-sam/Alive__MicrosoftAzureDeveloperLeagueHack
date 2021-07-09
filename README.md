@@ -1,2 +1,2 @@
 
-# Alive__MicrosoftAzureDeveloperLeagueHack
+# MicrosoftAzureDeveloperLeagueHack
